@@ -4,6 +4,10 @@ All notable changes to the Stockholm extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.5
+
+- Changed mode to "dark" in VSCode Extension Page
+
 ## 0.0.4
 
 - Added icon for Visual Studio Code page
