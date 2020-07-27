@@ -18,6 +18,7 @@
   "bugs": {
     "url": "https://github.com/bih/vscode-stockholm-theme/issues"
   },
+  "publisher": "bilawal-hameed",
   "publishConfig": {
     "access": "public"
   },
