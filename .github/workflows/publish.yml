@@ -19,3 +19,9 @@ jobs:
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      # Publish to VSCE (Visual Studio Extension Marketplace)
+      - uses: lannonbr/vsce-action@master
+        with:
+          args: "publish -p $VSCE_TOKEN"
+        env:
+          VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
