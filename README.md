@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" src="https://raw.githubusercontent.com/bih/vscode-stockholm-theme/master/masthead.png" alt="Screenshots of the Stockholm visual studio code theme" />
+  <img width="1200" src="https://raw.githubusercontent.com/bih/vscode-stockholm-theme/main/masthead.png" alt="Screenshots of the Stockholm visual studio code theme" />
   
   <p>A beautiful theme for VS Code.</p>
 
