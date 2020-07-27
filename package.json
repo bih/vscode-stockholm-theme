@@ -1,0 +1,44 @@
+{
+  "private": true,
+  "name": "vscode-stockholm-theme",
+  "displayName": "Stockholm",
+  "description": "A Visual Studio Code color theme inspired by Scandinavian design.",
+  "author": "Bilawal Hameed <bil@spotify.com>",
+  "homepage": "https://github.com/bih/vscode-stockholm-theme",
+  "keywords": [
+    "vscode",
+    "theme",
+    "stockholm"
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bih/vscode-stockholm-theme.git",
+  },
+  "bugs": {
+    "url": "https://github.com/bih/vscode-stockholm-theme/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "files": [
+    "themes",
+    "LICENSE.txt"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stockholm",
+        "uiTheme": "vs",
+        "path": "./themes/stockholm-light/color-theme.json"
+      }
+    ]
+  }
+}
