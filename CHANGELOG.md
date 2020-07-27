@@ -4,6 +4,10 @@ All notable changes to the Stockholm extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.0.3
+
+- Publish to Visual Studio Code Extension Marketplace (VSCE)
+
 ## 0.0.2
 
 - Fixed issue with bad trailing comma in `package.json`. This prevented publishing to GitHub Packages and NPM.
