@@ -30,7 +30,7 @@ Then press <kbd>F5</kbd> to open up a new VSCode with the theme. You can then ma
 1. Commit using [Conventional Commits](https://www.conventionalcommits.org) (i.e. `fix: [describe fix]`, `docs: [describe docs change]`, etc)
 2. Update the `version` in package.json. As VSCode themes technically never break, a minor change should be sufficient.
 3. Once published, create a new GitHub release with the same version set in Step 2.
-4. Success! GitHub Actions will automatically trigger and publish to GitHub Packages (as `@bih/vscode-stockholm-theme`) and NPM (as `vscode-stockholm-theme`). No action is required from your end.
+4. Success! GitHub Actions will automatically trigger and publish to NPM (as `vscode-stockholm-theme`). No action is required from your end.
 
 ## License
 
