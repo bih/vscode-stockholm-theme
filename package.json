@@ -12,7 +12,7 @@
   "icon": "vscode-icon.png",
   "galleryBanner": {
     "color": "#0057A3",
-    "theme": "light"
+    "theme": "dark"
   },
   "license": "Apache-2.0",
   "version": "0.0.4",
