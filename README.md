@@ -1,7 +1,19 @@
 <div align="center">
-  <img width="1200" src="masthead.png" alt="Screenshots of the Stockholm visual studio code theme" />
+  <img width="1200" src="https://raw.githubusercontent.com/bih/vscode-stockholm-theme/master/masthead.png" alt="Screenshots of the Stockholm visual studio code theme" />
   
-  <h2>Stockholm Color Theme (for Visual Studio Code)</h2>
+  <p>A beautiful theme for VS Code.</p>
+
+  <p>
+    <a href="https://marketplace.visualstudio.com/items?itemName=bilawal-hameed.vscode-stockholm-theme">
+      <img src="https://vsmarketplacebadge.apphb.com/version-short/bilawal-hameed.vscode-stockholm-theme.svg?style=flat-square" alt="Version">
+    </a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=bilawal-hameed.vscode-stockholm-theme">
+      <img src="https://vsmarketplacebadge.apphb.com/installs/bilawal-hameed.vscode-stockholm-theme.svg?style=flat-square" alt="Installs">
+    </a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=bilawal-hameed.vscode-stockholm-theme">
+      <img src="https://vsmarketplacebadge.apphb.com/rating/bilawal-hameed.vscode-stockholm-theme.svg?style=flat-square" alt="Ratings">
+    </a>
+  </p>
 </div>
 
 ## Install
