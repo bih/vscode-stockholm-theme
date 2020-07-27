@@ -13,7 +13,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bih/vscode-stockholm-theme.git",
+    "url": "git+https://github.com/bih/vscode-stockholm-theme.git"
   },
   "bugs": {
     "url": "https://github.com/bih/vscode-stockholm-theme/issues"
