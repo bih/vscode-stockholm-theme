@@ -9,6 +9,11 @@
     "theme",
     "stockholm"
   ],
+  "icon": "vscode-icon.png",
+  "galleryBanner": {
+    "color": "#0057A3",
+    "theme": "light"
+  },
   "license": "Apache-2.0",
   "version": "0.0.3",
   "repository": {
